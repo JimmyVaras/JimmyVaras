@@ -2,8 +2,7 @@
 - 👀 I’m interested in software, astronomy, recoketry, kayaking, games, motorbikes and a long etcetera. 
  
 - 🌱 I’m currently studying Software Engineering at Seville´s University.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: jaimevarascaceres@gmail.com
 
 <!---
 JimmyVaras/JimmyVaras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
