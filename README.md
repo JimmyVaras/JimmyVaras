@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JimmyVaras
-- 👀 I’m interested in software, astronomy, recoketry, kayaking, games, motorbikes and a long etcetera. 
+- 👀 I’m interested in software, motorbikes, recoketry, games, kayaking, astronomy and a long etcetera. 
  
 - 🌱 I’m currently studying Software Engineering at Seville´s University.
 - 📫 How to reach me: jaimevarascaceres@gmail.com
