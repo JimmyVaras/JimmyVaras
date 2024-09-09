@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JimmyVaras
-- 🌱 I’m currently **studying Computer Science** at University of Latvia in Riga.
+- 🌱 I’m currently **studying Software Engineering** at University of Latvia in Riga.
 - 👀 I’m interested in software, travelling, motorbikes, machine learning, games, kayaking, astronomy and a long etcetera 😅.
 - 📫 How to reach me: jaimevarascaceres@gmail.com
 
