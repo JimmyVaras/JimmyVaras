@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JimmyVaras
 - 🌱 I’m currently **studying Software Engineering** at University of Seville and University of Latvia in Riga.
-- 👀 I’m interested in software, travelling, motorbikes, machine learning, games, kayaking, astronomy and a long etcetera 😅.
+- 👀 I’m interested in software, travelling, motorbikes, machine learning, games, sports such as kayaking, astronomy and a long etcetera 😅.
 - 📫 How to reach me: jaimevarascaceres@gmail.com
 
 <!---
